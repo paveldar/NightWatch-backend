@@ -21,7 +21,7 @@ MIDDLEWARE = [
 ]
 
 
-# CORS_ALLOWED_ORIGINS = []
+CORS_ALLOWED_ORIGINS = ['https://nightwatch-frontend.onrender.com']
 
 STORAGES = {
     "default": {
